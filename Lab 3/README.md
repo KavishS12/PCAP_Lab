@@ -1,1 +1,1 @@
-# Lab 3
+# Lab 3 - Collective communications in MPI
