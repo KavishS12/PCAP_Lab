@@ -1,1 +1,1 @@
-Lab 5 - Programs on arrays in CUDA
+# Lab 5 - Programs on arrays in CUDA
