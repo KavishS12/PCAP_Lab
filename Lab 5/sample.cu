@@ -1,3 +1,6 @@
+// compile : nvcc sample.cu -o sample
+// output : ./sample
+
 #include "cuda_runtime.h"
 #include "device_launch_parameters.h"
 #include<stdio.h>
