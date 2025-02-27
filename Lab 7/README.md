@@ -1,1 +1,1 @@
-# Programs on strings in CUDA
+# Lab 7 - Programs on strings in CUDA
